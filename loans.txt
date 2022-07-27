@@ -1,0 +1,5 @@
+
+Book ID - User ID - Loan date - Return date
+
+1 - 1 - 9/3/2020 - 16/3/2020
+2 - 2 - 9/3/2020 - 16/3/2020
